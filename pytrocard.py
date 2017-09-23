@@ -1,5 +1,4 @@
-
-initial_balance = 2.28
+initial_balance = float(input("Initial balance: "))
 recharge_value = 5.5
 fare = 2.75
 
